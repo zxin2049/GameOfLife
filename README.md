@@ -27,7 +27,7 @@
 
   1. 板凳
 
-     ![img](.\screenshot\180px-Game_of_life_block.dvg.png)
+     ![img](./screenshot/180px-Game_of_life_block.dvg.png)
 
   2. 面包
 
@@ -35,89 +35,89 @@
 
   3. 蜂巢
 
-     ![img](screenshot\180px-Game_of_life_loaf.svg.png)
+     ![img](./screenshot/180px-Game_of_life_loaf.svg.png)
 
   4. 大船
 
-     ![img](screenshot\180px-Game_of_life_5x5_ship.svg.png)
+     ![img](screenshot/180px-Game_of_life_5x5_ship.svg.png)
 
   5. 小船
 
-     ![img](screenshot\180px-Game_of_life_boat.svg.png)
+     ![img](./screenshot/180px-Game_of_life_boat.svg.png)
 
   6. 小花
 
-     ![img](screenshot\Game_of_life_flower.svg.png)
+     ![img](./screenshot/Game_of_life_flower.svg.png)
 
   7. 池塘
 
-     ![img](screenshot\180px-Game_of_life_6x6_pond.svg.png)
+     ![img](./screenshot/180px-Game_of_life_6x6_pond.svg.png)
 
   8. 蛇
 
-     ![img](screenshot\Conways_game_of_life_snake.png)
+     ![img](./screenshot/Conways_game_of_life_snake.png)
 
   9. 航空母舰
 
-     ![img](screenshot\Conways_game_of_life_aircraft_carrier.png)
+     ![img](./screenshot/Conways_game_of_life_aircraft_carrier.png)
 
   10. 独木舟
 
-      ![img](screenshot\Conways_game_of_life_canoe.png)
+      ![img](./screenshot/Conways_game_of_life_canoe.png)
 
   11. 芒果
 
-      ![img](screenshot\Conways_game_of_life_mango.png)
+      ![img](./screenshot/Conways_game_of_life_mango.png)
 
   12. 鸭子
 
-      ![img](screenshot\Conways_game_of_life_duck.png)
+      ![img](./screenshot/Conways_game_of_life_duck.png)
 
 - 震荡状态
 
   1. 信号灯（周期=2轮）
 
-     ![img](screenshot\Game_of_life_blinker.gif)
+     ![img](./screenshot/Game_of_life_blinker.gif)
 
   2. 蟾蜍（周期=2轮）
 
-     ![img](screenshot\Game_of_life_toad.gif)
+     ![img](./screenshot/Game_of_life_toad.gif)
 
   3. 红绿灯（周期=2轮）
 
-     ![img](screenshot\180px-TrafficLight.gif)
+     ![img](./screenshot/180px-TrafficLight.gif)
 
   4. 烽火（周期=2轮）
 
-     ![img](screenshot\Game_of_life_beacon.gif)
+     ![img](./screenshot/Game_of_life_beacon.gif)
 
   5. 脉冲星（周期=3轮）
 
-     ![img](screenshot\Game_of_life_pulsar.gif)
+     ![img](./screenshot/Game_of_life_pulsar.gif)
 
   6. 慨影（周期=15轮）
 
-     ![img](screenshot\I-Column.gif)
+     ![img](./screenshot/I-Column.gif)
 
 - 会移动的震荡状态
 
   1. 滑翔机（4轮）
 
-     ![img](screenshot\Game_of_life_animated_glider.gif)
+     ![img](./screenshot/Game_of_life_animated_glider.gif)
 
   2. 太空船（4轮）
 
-     ![img](screenshot\Game_of_life_animated_LWSS.gif)
+     ![img](./screenshot/Game_of_life_animated_LWSS.gif)
 
 - 持续繁殖模式
 
   1. 高斯帕滑翔机
 
-     ![img](screenshot\Gospers_glider_gun.gif)
+     ![img](./screenshot/Gospers_glider_gun.gif)
 
   2. 播种机
 
-     ![img](screenshot\Conways_game_of_life_breeder_animation.gif)
+     ![img](./screenshot/Conways_game_of_life_breeder_animation.gif)
 
   3. 
 
@@ -131,7 +131,7 @@
 
 
 
-![11000步后的图像](screenshot\LangtonsAnt.png)
+![11000步后的图像](./screenshot/LangtonsAnt.png)
 
 ### 规则
 
@@ -146,12 +146,12 @@
 
 若从全白的背景开始，在一开始的数百步，蚂蚁留下的路线会出现许多对称或重复的形状，然后会出现类似混沌的假随机，至约一万步后会出现以104步为周期无限重复的“高速公路”朝固定方向移动[[2\]](https://zh.wikipedia.org/wiki/兰顿蚂蚁#cite_note-2)。在目前试过的所有起始状态，蚂蚁的路线最终都会变成高速公路，但尚无法证明这是无论任何起始状态都会导致的必然结果。
 
-![img](screenshot\LangtonsAntAnimated.gif)
+![img](./screenshot/LangtonsAntAnimated.gif)
 
 
 
 # 程序截图
 
-![img](screenshot/mainpage.png)
+![img](./screenshot/mainpage.png)
 
-![img](screenshot/高斯帕滑翔机.gif)
+![img](./screenshot/高斯帕滑翔机.gif)
