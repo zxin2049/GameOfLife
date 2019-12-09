@@ -27,11 +27,11 @@
 
   1. 板凳
 
-     ![img](screenshot\180px-Game_of_life_block.dvg.png)
+     ![img](.\screenshot\180px-Game_of_life_block.dvg.png)
 
   2. 面包
 
-     ![img](screenshot\180px-Game_of_life_loaf.svg.png)
+     ![img](./screenshot/180px-Game_of_life_loaf.svg.png)
 
   3. 蜂巢
 
